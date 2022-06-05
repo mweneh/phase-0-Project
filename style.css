@@ -9,3 +9,19 @@ body {
     /* 1 */
     font-size: 1em;
   }
+  .div {position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.img {
+    display: block;
+    position: relative;
+    width: 100%;
+    top: -20%;
+    height: 120%;
+    will-change: scroll-position;
+    pointer-events: none;
+    object-fit: cover;
+    margin: auto;
+}
