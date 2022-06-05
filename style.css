@@ -1,0 +1,9 @@
+body {
+    background: blue;
+    font-family: fantasy;
+    font-size: 1em;
+  }samp {
+    font-family: monospace, monospace;
+    /* 1 */
+    font-size: 1em;
+  }
