@@ -1,9 +1,10 @@
 body {
-    background:-webkit-gradient();
+    background:#87CEEB;
     font-family: fantasy;
     font-size: 1em;
     font-style: normal;
     font-weight: normal;
+
   }samp {
     font-family: monospace, monospace;
     /* 1 */
