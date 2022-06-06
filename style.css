@@ -4,6 +4,7 @@ body {
     font-size: 1em;
     font-style: normal;
     font-weight: normal;
+    line-height: 1.2;
 
   }samp {
     font-family: monospace, monospace;
@@ -24,5 +25,18 @@ body {
     will-change: scroll-position;
     pointer-events: none;
     object-fit: cover;
-    margin: auto;
+    margin: 0;
 }
+h1,
+h2,
+h3,
+p
+ {
+  color: #fff;
+  font-weight: 700;
+  line-height: 1.2;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ }
