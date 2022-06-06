@@ -40,11 +40,14 @@ p
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
  }
- .header-top  .logo {
+  .main-logo {
   position: relative;
-  display: table;
+  display: block;
   pointer-events: auto;
-  float: left;
+  float: right;
   z-index: 99999;
+  width: 60%;
+  top: -5%;
+  height: 80%;
   top: 5px;
 }
