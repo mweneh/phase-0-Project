@@ -40,3 +40,11 @@ p
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
  }
+ .header-top  .logo {
+  position: relative;
+  display: table;
+  pointer-events: auto;
+  float: left;
+  z-index: 99999;
+  top: 5px;
+}
